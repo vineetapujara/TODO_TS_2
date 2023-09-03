@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 # TODO_TS_2
+
+# Description
+ This application is a todo-app which is built using react typescript.It has task completion,editing and deleting task options.It stores the task using localstorage.
 =======
 # React + TypeScript + Vite
 
